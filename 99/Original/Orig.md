@@ -1,80 +1,97 @@
-Exemple de mandat pour l’exercice des droits conférés par le RGPD 
+Ti=Exemple de mandat pour l’exercice des droits conférés par le RGPD 
 
 https://www.cnil.fr/sites/default/files/atoms/files/mandat-type_-_exercice_des_droits.pdf
 
 Attention : ce document est un exemple de mandat relatif à l’exercice des droits par le biais d’un mandataire selon les principes définis par la recommandation de la CNIL accessible ici. Cet exemple de mandat ne concerne que la protection des données : les parties sont donc libres d’inclure d’autres clauses à caractère commercial qu’ils jugent pertinentes pour le contrat, à condition qu’elles ne contredisent pas la réglementation applicable à la protection des données. 
 
-Je soussigné(e) .......................................................................... , 
+0.1.sec=Je soussigné(e) .......................................................................... , 
 
-autorise la société : ........................................................................................................... 
+0.2.sec=autorise la société : ........................................................................................................... 
 
-forme juridique : ........................................................................................................... 
+0.3.sec=forme juridique : ........................................................................................................... 
 
-adresse du siège social : ............................................................................................... 
+0.4.sec=adresse du siège social : ............................................................................................... 
 
-immatriculation : .......................................................................................................... 
+0.5.sec=immatriculation : .......................................................................................................... 
 
-ci-après « le mandataire », à réaliser, en mon nom et pour mon compte l’exercice du (des) droit(s) qui me sont conférés par le règlement (UE) n° 2016/679 (« RGPD »), dans les conditions décrites dans le présent mandat. 
+0.6.sec=ci-après « le mandataire », à réaliser, en mon nom et pour mon compte l’exercice du (des) droit(s) qui me sont conférés par le règlement (UE) n° 2016/679 (« RGPD »), dans les conditions décrites dans le présent mandat.
 
-Article 1er – Objet du mandat 
+0.=[G/Z/ol/s6]
 
-Conformément à l’article 77 du décret n° 2019-536 du 29 mai 2019 et au RGPD, le présent mandat a pour objet de confier au mandataire l’exercice de mon (mes) droit(s) auprès de .......................................................................................................................... ........................................................................................................................................... 
+1.Ti=Article 1er – Objet du mandat 
 
-(« le responsable de traitement »). 
+1.0.0.sec=Conformément à l’article 77 du décret n° 2019-536 du 29 mai 2019 et au RGPD, le présent mandat a pour objet de confier au mandataire l’exercice de mon (mes) droit(s) auprès de .......................................................................................................................... ........................................................................................................................................... 
 
-1ère option : 
+1.0.1.sec=(« le responsable de traitement »). 
 
-Plus précisément, le mandataire peut exercer, s’il le propose parmi ses services, l’exercice de mon : 
+1.0.=[G/Z/ol-none/s1]
 
- droit d’accès (article 15 du RGPD) ; 
+1.1.Ti=1ère option : 
 
- droit de rectification (article 16 du RGPD) ; 
+1.1.0.sec=Plus précisément, le mandataire peut exercer, s’il le propose parmi ses services, l’exercice de mon : 
 
- droit à l’effacement (article 17 du RGPD) ; 
+1.1.1.sec=__ droit d’accès (article 15 du RGPD) ; 
 
- droit à la limitation du traitement (article 18 du RGPD) ; 
+1.1.2.sec=__ droit de rectification (article 16 du RGPD) ; 
 
- droit à la portabilité (article 20 du RGPD) ; 
+1.1.3.sec=__ droit à l’effacement (article 17 du RGPD) ; 
 
- droit d’opposition (article 21 du RGPD) ; 
+1.1.4.sec=__ droit à la limitation du traitement (article 18 du RGPD) ; 
 
- droit d’obtenir une intervention humaine (article 22 du RGPD) ; 
+1.1.5.sec=__ droit à la portabilité (article 20 du RGPD) ; 
 
- droit de retirer mon consentement (article 7 d 
+1.1.6.sec=__ droit d’opposition (article 21 du RGPD) ; 
 
-2e option (en cas d’une demande de renouvellement) 
+1.1.7.sec=__ droit d’obtenir une intervention humaine (article 22 du RGPD) ; 
 
-Plus précisément, le présent mandat a pour objet de confier au mandataire le renouvellement de ma demande précédemment adressée le ........................ et ayant pour objet l’exercice de mon : 
+1.1.8.sec=__ droit de retirer mon consentement (article 7 d 
 
- droit d’accès (article 15 du RGPD) ; 
+1.1.=[G/Z/ol/s8]
 
- droit de rectification (article 16 du RGPD) ; 
+1.2.Ti=2e option (en cas d’une demande de renouvellement) 
 
- droit à l’effacement (article 17 du RGPD) ; 
+1.2.1.0.sec=Plus précisément, le présent mandat a pour objet de confier au mandataire le renouvellement de ma demande précédemment adressée le ........................ et ayant pour objet l’exercice de mon : 
 
- droit à la limitation du traitement (article 18 du RGPD) ; 
+1.2.1.1.sec=__droit d’accès (article 15 du RGPD) ; 
 
- droit à la portabilité (article 20 du RGPD) ; 
+1.2.1.2.sec=__ droit de rectification (article 16 du RGPD) ; 
 
- droit d’opposition (article 21 du RGPD) ; 
+1.2.1.3.sec=__ droit à l’effacement (article 17 du RGPD) ; 
 
- droit d’obtenir une intervention humaine (article 22 du RGPD) ; 
+1.2.1.4.sec=__ droit à la limitation du traitement (article 18 du RGPD) ; 
 
- droit de retirer mon consentement (article 7 du RGPD). 
+1.2.1.5.sec=__ droit à la portabilité (article 20 du RGPD) ; 
 
-Cette demande de renouvellement se justifie par le fait que (choisissez un élément) : 
+1.2.1.6.sec=__ droit d’opposition (article 21 du RGPD) ; 
 
- je n'ai pas reçu de réponse à ma demande et le délai de réponse est écoulé ; 
+1.2.1.7.sec=__ droit d’obtenir une intervention humaine (article 22 du RGPD) ; 
 
- je pense que la réponse reçue est incomplète ; 
+1.2.1.8.sec=__ droit de retirer mon consentement (article 7 du RGPD). 
 
- je pense que de nouvelles données sont apparues depuis ma dernière demande ; 
+1.2.1.=[G/Z/ol/s8]
 
- je pense que les modalités du traitement ont changé depuis ma dernière demande ; 
+1.2.2.0.sec=Cette demande de renouvellement se justifie par le fait que (choisissez un élément) : 
 
- je souhaite ajouter un nouveau destinataire (portabilité) ; 
+1.2.2.1.sec=__ je n'ai pas reçu de réponse à ma demande et le délai de réponse est écoulé ; 
 
- je ne souhaite pas justifier ma demande de renouvellement ;  autre(s) (préciser) : ................................................................................... 
+1.2.2.2.sec=__ je pense que la réponse reçue est incomplète ; 
+
+1.2.2.3.sec=__ je pense que de nouvelles données sont apparues depuis ma dernière demande ; 
+
+1.2.2.4.sec=__ je pense que les modalités du traitement ont changé depuis ma dernière demande ; 
+
+1.2.2.5.sec=__ je souhaite ajouter un nouveau destinataire (portabilité) ; 
+
+1.2.2.6.sec=__ je ne souhaite pas justifier ma demande de renouvellement ;  autre(s) (préciser) : ................................................................................... 
+
+1.2.2.=[G/Z/ol/s6]
+
+1.2.=[G/Z/ol/s2]
+
+1.=[G/Z/ol/2]
+
+
+=[G/Z/ol/1]
 
 Article 2 – Données à caractère personnel faisant l’objet de ma demande 
 
